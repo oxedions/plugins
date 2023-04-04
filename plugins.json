@@ -1,5 +1,17 @@
 [
   {
+    "id": "nf-jarvice",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/nextflow-io/nf-console/releases/download/1.0.0/nf-console-1.0.0.zip",
+        "date": "2021-01-04T21:00:14.872+01:00",
+        "sha512sum": "4e681a539a0a902c1d93bce04cb2a5e49ed286581bc1ea0202044d040566f583aa0efabe0865d351eb284e4962020bc23d62075f52b04a06ab655b53e8aeea34",
+        "requires": ">=23.02.0-edge"
+      }
+    ]
+  },
+  {
     "id": "nf-amazon",
     "releases": [
       {
