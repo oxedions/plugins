@@ -3,10 +3,10 @@
     "id": "nf-jarvice",
     "releases": [
       {
-        "version": "1.0.0",
-        "url": "https://github.com/nextflow-io/nf-console/releases/download/1.0.0/nf-console-1.0.0.zip",
-        "date": "2021-01-04T21:00:14.872+01:00",
-        "sha512sum": "4e681a539a0a902c1d93bce04cb2a5e49ed286581bc1ea0202044d040566f583aa0efabe0865d351eb284e4962020bc23d62075f52b04a06ab655b53e8aeea34",
+        "version": "0.5.0",
+        "url": "hhttps://github.com/nimbix/nf-jarvice/releases/download/0.5.0/nf-jarvice-0.5.0.zip",
+        "date": "2023-04-04T00:00:14.872+01:00",
+        "sha512sum": "cc062e8b1d4ef0444ef143222f930bfb12508ab9f4dd9fc09a79730c133db93cc06fb5d8bf845fc047dc9910de15df6d77447280b7505c03c792930811c3c743",
         "requires": ">=23.02.0-edge"
       }
     ]
