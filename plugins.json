@@ -1467,5 +1467,17 @@
         "requires": ">23.02.01-edge"
       }
     ]
+  },
+  {
+    "id": "nf-jarvice",
+    "releases": [
+      {
+        "version": "0.5.0",
+        "url": "https://github.com/nimbix/nf-jarvice/releases/download/0.5.0/nf-jarvice-0.5.0.zip",
+        "date": "2023-04-04T00:00:14.872+01:00",
+        "sha512sum": "cc062e8b1d4ef0444ef143222f930bfb12508ab9f4dd9fc09a79730c133db93cc06fb5d8bf845fc047dc9910de15df6d77447280b7505c03c792930811c3c743",
+        "requires": ">=23.02.0-edge"
+      }
+    ]
   }
 ]
